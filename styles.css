@@ -153,4 +153,5 @@ p.text-muted {
     padding: 20px 0; /* Top & Bottom Padding */
     font-size: 18px; /* Adjust Font Size */
     font-weight: bold; /* Make Text Bold */
+height: 20px;
 }
