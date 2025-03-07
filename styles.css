@@ -150,8 +150,10 @@ p.text-muted {
     background-color: #000000; /* Black Background */
     color: #ffffff; /* White Text */
     text-align: center; /* Center Align Text */
-    padding: 20px 0; /* Top & Bottom Padding */
+    height: 20mm; /* Set Footer Height to 20mm */
+    display: flex; /* Align Text Vertically */
+    align-items: center; /* Center Text Vertically */
+    justify-content: center; /* Center Text Horizontally */
     font-size: 18px; /* Adjust Font Size */
     font-weight: bold; /* Make Text Bold */
-height: 20px;
 }
